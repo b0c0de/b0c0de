@@ -31,11 +31,8 @@ In addition to my writing expertise, I also offer **consulting** and **outsourci
 ### [Brisk Web Services - Website](https://brisk-web-services.com)
 A modern, multilingual website for my SEO content writing agency, showcasing our portfolio and offering a range of content writing services. This is a project I hold dear as it represents my vision of a business focused on high-quality, SEO-optimized writing for niche markets.
 
-### [Wikipedia Contributions](https://en.wikipedia.org/wiki/User:Bojan_Cvjetković)
+### [Wikipedia Contributions](https://meta.wikimedia.org/wiki/User:%D0%91%D0%BE%D0%BA%D0%B8)
 As a dedicated Wikipedia contributor, I have written over 850 articles, with several of them being selected as **Good Articles**. My contributions focus on **sports**, **history**, and **general knowledge**, and I am always looking to improve the quality of information on Wikipedia.
-
-### [SEO Content Writing Portfolio](https://github.com/BojanCvjetkovic/portfolio)
-This repository contains examples of my work across different industries. It includes **content samples**, **case studies**, and **SEO reports**, showcasing my writing and optimization strategies.
 
 ---
 
@@ -49,7 +46,7 @@ This repository contains examples of my work across different industries. It inc
 
 ## 📈 GitHub Stats
 
-![Bojan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BojanCvjetkovic&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=transparent)
+![Bojan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=b0c0de&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=transparent)
 
 ---
 
