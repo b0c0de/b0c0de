@@ -1,16 +1,67 @@
-## Hi there 👋
+# Welcome to Bojan Cvjetković's GitHub Profile! 👋
 
-<!--
-**b0c0de/b0c0de** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there! I'm **Bojan Cvjetković**, a passionate **SEO Content Writer**, **Digital Marketing Specialist**, and **Founder of Brisk Web Services**. With over 20 years of experience, I've been involved in content writing, SEO optimization, and digital marketing strategies, working with well-known brands and clients from various industries.
 
-Here are some ideas to get you started:
+🌐 **Website:** [Brisk Web Services](https://brisk-web-services.com)  
+📧 **Email:** bojan.cvjetkovic@gmail.com  
+🔗 **LinkedIn:** [Bojan Cvjetković LinkedIn](https://www.linkedin.com/in/bojan-cvjetkovic/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+I specialize in **SEO Content Writing**, focusing on delivering high-quality content for **finance**, **sports**, and **product reviews**. I have contributed to numerous projects that aim to enhance online visibility and drive traffic, focusing on organic growth through well-researched and impactful content.
+
+In addition to my writing expertise, I also offer **consulting** and **outsourcing services** to agencies looking to scale their SEO and content production. I'm always looking to collaborate on new projects, share knowledge, and improve the online presence of businesses worldwide.
+
+---
+
+## 🛠️ Skills & Technologies
+
+- **SEO**: On-page SEO, Off-page SEO, Keyword Research, Content Strategy
+- **Content Writing**: Blog Articles, Product Reviews, Web Copy, Press Releases
+- **CMS**: WordPress, HTML
+- **Digital Marketing**: Facebook Ads, Blog Posting, Social Media Marketing
+- **Languages**: English, Serbian (Native)
+
+---
+
+## 📂 Notable Projects
+
+### [Brisk Web Services - Website](https://brisk-web-services.com)
+A modern, multilingual website for my SEO content writing agency, showcasing our portfolio and offering a range of content writing services. This is a project I hold dear as it represents my vision of a business focused on high-quality, SEO-optimized writing for niche markets.
+
+### [Wikipedia Contributions](https://en.wikipedia.org/wiki/User:Bojan_Cvjetković)
+As a dedicated Wikipedia contributor, I have written over 850 articles, with several of them being selected as **Good Articles**. My contributions focus on **sports**, **history**, and **general knowledge**, and I am always looking to improve the quality of information on Wikipedia.
+
+### [SEO Content Writing Portfolio](https://github.com/BojanCvjetkovic/portfolio)
+This repository contains examples of my work across different industries. It includes **content samples**, **case studies**, and **SEO reports**, showcasing my writing and optimization strategies.
+
+---
+
+## 🌟 Contributions
+
+- Contributed to various open-source projects related to **SEO tools**, **content management**, and **digital marketing**.
+- Shared my knowledge on **SEO**, **content writing**, and **digital marketing** with the broader developer and marketing communities via blog posts, forums, and social media.
+- Regularly participate in **GitHub discussions** around SEO optimization, content management systems, and digital marketing tools.
+
+---
+
+## 📈 GitHub Stats
+
+![Bojan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=BojanCvjetkovic&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=transparent)
+
+---
+
+## 👨‍💻 Get In Touch
+
+If you want to talk about SEO, content writing, or digital marketing, feel free to reach out. I'm always open to discussing new opportunities, collaborations, or simply connecting with like-minded individuals.
+
+- **LinkedIn:** [Bojan Cvjetković LinkedIn](https://www.linkedin.com/in/bojan-cvjetkovic/)
+- **Email:** bojan.cvjetkovic@gmail.com
+
+Looking forward to connecting! 😊
+
+---
+
+Thanks for visiting my profile! 🚀
