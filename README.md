@@ -4,7 +4,7 @@ Hi there! I'm **Bojan Cvjetković**, a passionate **SEO Content Writer**, **Digi
 
 🌐 **Website:** [Brisk Web Services](https://brisk-web-services.com)  
 📧 **Email:** bojan.cvjetkovic@gmail.com  
-🔗 **LinkedIn:** [Bojan Cvjetković LinkedIn](https://www.linkedin.com/in/bojan-cvjetkovic/)
+🔗 **LinkedIn:** [Bojan Cvjetković LinkedIn](https://www.linkedin.com/in/bojancvjetkovic/)
 
 ---
 
@@ -54,7 +54,7 @@ As a dedicated Wikipedia contributor, I have written over 850 articles, with sev
 
 If you want to talk about SEO, content writing, or digital marketing, feel free to reach out. I'm always open to discussing new opportunities, collaborations, or simply connecting with like-minded individuals.
 
-- **LinkedIn:** [Bojan Cvjetković LinkedIn](https://www.linkedin.com/in/bojan-cvjetkovic/)
+- **LinkedIn:** [Bojan Cvjetković LinkedIn](https://www.linkedin.com/in/bojancvjetkovic/)
 - **Email:** bojan.cvjetkovic@gmail.com
 
 Looking forward to connecting! 😊
