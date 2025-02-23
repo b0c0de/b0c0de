@@ -18,21 +18,24 @@ In addition to my writing expertise, I also offer **consulting** and **outsourci
 
 ## 🛠️ Skills & Technologies
 
-- **SEO**: On-page SEO, Off-page SEO, Keyword Research, Content Strategy
-- **Content Writing**: Blog Articles, Product Reviews, Web Copy, Press Releases
-- **CMS**: WordPress, HTML
-- **Digital Marketing**: Facebook Ads, Blog Posting, Social Media Marketing
-- **Languages**: English, Serbian (Native)
+- **SEO**: On-page SEO, Off-page SEO, Keyword Research, Content Strategy  
+- **Content Writing**: Blog Articles, Product Reviews, Web Copy, Press Releases  
+- **CMS**: WordPress, HTML  
+- **Digital Marketing**: Facebook Ads, Blog Posting, Social Media Marketing  
+- **Languages**: English, Serbian (Native)  
 
 ---
 
-## 📂 Notable Projects
+## 🐂 Notable Projects
 
 ### [Brisk Web Services - Website](https://brisk-web-services.com)
 A modern, multilingual website for my SEO content writing agency, showcasing our portfolio and offering a range of content writing services. This is a project I hold dear as it represents my vision of a business focused on high-quality, SEO-optimized writing for niche markets.
 
 ### [Wikipedia Contributions](https://meta.wikimedia.org/wiki/User:%D0%91%D0%BE%D0%BA%D0%B8)
 As a dedicated Wikipedia contributor, I have written over 850 articles, with several of them being selected as **Good Articles**. My contributions focus on **sports**, **history**, and **general knowledge**, and I am always looking to improve the quality of information on Wikipedia.
+
+### [Auto-Internal Linker - WordPress Plugin](https://github.com/b0c0de/auto-internal-linker/tree/main)
+A simple yet powerful WordPress plugin that automatically adds internal links based on predefined keywords. This tool is designed to improve SEO and enhance the internal linking structure of websites, making content optimization easier. Currently gathering feedback before submission to WordPress.org.
 
 ---
 
@@ -54,8 +57,8 @@ As a dedicated Wikipedia contributor, I have written over 850 articles, with sev
 
 If you want to talk about SEO, content writing, or digital marketing, feel free to reach out. I'm always open to discussing new opportunities, collaborations, or simply connecting with like-minded individuals.
 
-- **LinkedIn:** [Bojan Cvjetković LinkedIn](https://www.linkedin.com/in/bojancvjetkovic/)
-- **Email:** bojan.cvjetkovic@gmail.com
+- **LinkedIn:** [Bojan Cvjetković LinkedIn](https://www.linkedin.com/in/bojancvjetkovic/)  
+- **Email:** bojan.cvjetkovic@gmail.com  
 
 Looking forward to connecting! 😊
 
