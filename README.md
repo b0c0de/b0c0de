@@ -8,8 +8,8 @@ With over 20 years of experience in digital marketing, technical SEO, and conten
 
 ### 🚀 Featured Tools & Projects
 
-* 🏗️ **[Authority SEO Architecture](https://github.com)** – Scalable Topic Cluster templates, internal linking frameworks, and EEAT content checklists for affiliate, finance, and authority websites.
-* 🔗 **[Auto-Internal Linker](https://github.com)** – A lightweight WordPress plugin that automates internal linking based on target keywords to boost on-page SEO and site structure.
+* 🏗️ **[Authority SEO Architecture](https://github.com/b0c0de/authority-seo-architecture)** – Scalable Topic Cluster templates, internal linking frameworks, and EEAT content checklists for affiliate, finance, and authority websites.
+* 🔗 **[Auto-Internal Linker](https://github.com/b0c0de/auto-internal-linker)** – A lightweight WordPress plugin that automates internal linking based on target keywords to boost on-page SEO and site structure.
 * 🌐 **[Brisk Web Services](https://brisk-web-services.com)** – SEO & Content Architecture agency helping businesses, affiliate brands, and publishers scale organic growth.
 * 📚 **Wikipedia Contributor** – Over 1,400+ published articles across sports, history, and general knowledge (including multiple *Good Articles*).
 
