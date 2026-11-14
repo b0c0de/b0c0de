@@ -1,67 +1,31 @@
-# Welcome to Bojan Cvjetković's GitHub Profile! 👋
+# Hi, I'm Bojan Cvjetković 👋
 
-Hi there! I'm **Bojan Cvjetković**, a passionate **SEO Content Writer**, **Digital Marketing Specialist**, and **Founder of Brisk Web Services**. With over 20 years of experience, I've been involved in content writing, SEO optimization, and digital marketing strategies, working with well-known brands and clients from various industries.
+**SEO Strategist | WordPress & Elementor Specialist | Founder of [Brisk Web Services](https://brisk-web-services.com)**
 
-🌐 **Website:** [Brisk Web Services](https://brisk-web-services.com)  
-📧 **Email:** bojan.cvjetkovic@gmail.com  
-🔗 **LinkedIn:** [Bojan Cvjetković LinkedIn](https://www.linkedin.com/in/bojancvjetkovic/)
+With over 20 years of experience in digital marketing, technical SEO, and content strategy, I build tools and systems that help websites rank higher and scale organic traffic.
 
 ---
 
-## 🚀 About Me
+### 🚀 Featured Tools & Projects
 
-I specialize in **SEO Content Writing**, focusing on delivering high-quality content for **finance**, **sports**, and **product reviews**. I have contributed to numerous projects that aim to enhance online visibility and drive traffic, focusing on organic growth through well-researched and impactful content.
-
-In addition to my writing expertise, I also offer **consulting** and **outsourcing services** to agencies looking to scale their SEO and content production. I'm always looking to collaborate on new projects, share knowledge, and improve the online presence of businesses worldwide.
-
----
-
-## 🛠️ Skills & Technologies
-
-- **SEO**: On-page SEO, Off-page SEO, Keyword Research, Content Strategy  
-- **Content Writing**: Blog Articles, Product Reviews, Web Copy, Press Releases  
-- **CMS**: WordPress, HTML  
-- **Digital Marketing**: Facebook Ads, Blog Posting, Social Media Marketing  
-- **Languages**: English, Serbian (Native)  
+* 🔗 **[Auto-Internal Linker](https://github.com)** – A lightweight WordPress plugin that automates internal linking based on target keywords to boost on-page SEO and site structure.
+* 🌐 **[Brisk Web Services](https://brisk-web-services.com)** – SEO & Content Writing Agency helping businesses and SaaS companies scale organic growth.
+* 📚 **Wikipedia Contributor** – Over 850+ published articles across sports, history, and general knowledge (including multiple *Good Articles*).
 
 ---
 
-## 🐂 Notable Projects
+### 🛠 Core Expertise
 
-### [Brisk Web Services - Website](https://brisk-web-services.com)
-A modern, multilingual website for my SEO content writing agency, showcasing our portfolio and offering a range of content writing services. This is a project I hold dear as it represents my vision of a business focused on high-quality, SEO-optimized writing for niche markets.
-
-### [Wikipedia Contributions](https://meta.wikimedia.org/wiki/User:%D0%91%D0%BE%D0%BA%D0%B8)
-As a dedicated Wikipedia contributor, I have written over 850 articles, with several of them being selected as **Good Articles**. My contributions focus on **sports**, **history**, and **general knowledge**, and I am always looking to improve the quality of information on Wikipedia.
-
-### [Auto-Internal Linker - WordPress Plugin](https://github.com/b0c0de/auto-internal-linker/tree/main)
-A simple yet powerful WordPress plugin that automatically adds internal links based on predefined keywords. This tool is designed to improve SEO and enhance the internal linking structure of websites, making content optimization easier. Currently gathering feedback before submission to WordPress.org.
+* **Technical & On-Page SEO:** Internal Linking Architecture, Site Audits, Content Strategy, Keyword Research
+* **Web & CMS Development:** WordPress, Elementor, PHP, HTML/CSS
+* **Content & Growth:** High-converting B2B/B2C Content, Finance & Tech Reviews, Digital Marketing
 
 ---
 
-## 🌟 Contributions
+### 🤝 Work With Me
 
-- Contributed to various open-source projects related to **SEO tools**, **content management**, and **digital marketing**.
-- Shared my knowledge on **SEO**, **content writing**, and **digital marketing** with the broader developer and marketing communities via blog posts, forums, and social media.
-- Regularly participate in **GitHub discussions** around SEO optimization, content management systems, and digital marketing tools.
+Looking to scale your organic traffic, need technical SEO consulting, or want to collaborate on WordPress SEO tools?
 
----
-
-## 📈 GitHub Stats
-
-![Bojan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=b0c0de&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=transparent)
-
----
-
-## 👨‍💻 Get In Touch
-
-If you want to talk about SEO, content writing, or digital marketing, feel free to reach out. I'm always open to discussing new opportunities, collaborations, or simply connecting with like-minded individuals.
-
-- **LinkedIn:** [Bojan Cvjetković LinkedIn](https://www.linkedin.com/in/bojancvjetkovic/)  
-- **Email:** bojan.cvjetkovic@gmail.com  
-
-Looking forward to connecting! 😊
-
----
-
-Thanks for visiting my profile! 🚀
+* 🌐 **Agency:** [brisk-web-services.com](https://brisk-web-services.com)
+* 💼 **LinkedIn:** [Bojan Cvjetković](https://linkedin.com)
+* 📧 **Email:** bojan.cvjetkovic@gmail.com
