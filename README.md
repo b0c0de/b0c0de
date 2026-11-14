@@ -10,7 +10,7 @@ With over 20 years of experience in digital marketing, technical SEO, and conten
 
 * 🔗 **[Auto-Internal Linker](https://github.com/b0c0de/auto-internal-linker)** – A lightweight WordPress plugin that automates internal linking based on target keywords to boost on-page SEO and site structure.
 * 🌐 **[Brisk Web Services](https://brisk-web-services.com)** – SEO & Content Writing Agency helping businesses and SaaS companies scale organic growth.
-* 📚 **Wikipedia Contributor** – Over 850+ published articles across sports, history, and general knowledge (including multiple *Good Articles*).
+* 📚 **Wikipedia Contributor** – Over 1400+ published articles across sports, history, and general knowledge (including multiple *Good Articles*).
 
 ---
 
