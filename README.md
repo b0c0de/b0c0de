@@ -2,30 +2,29 @@
 
 **SEO Strategist | WordPress & Elementor Specialist | Founder of [Brisk Web Services](https://brisk-web-services.com)**
 
-With over 20 years of experience in digital marketing, technical SEO, and content strategy, I build tools and systems that help websites rank higher and scale organic traffic.
+Sa preko 20 godina iskustva u digitalnom marketingu, tehničkom SEO-u i strategiji sadržaja, razvijam alate i sisteme za bolje rangiranje i rast organskog saobraćaja.
 
 ---
 
-### 🚀 Featured Tools & Projects
+### 🚀 Istaknuti alati i projekti
 
-* 🔗 **[Auto-Internal Linker](https://github.com/b0c0de/auto-internal-linker)** – A lightweight WordPress plugin that automates internal linking based on target keywords to boost on-page SEO and site structure.
-* 🌐 **[Brisk Web Services](https://brisk-web-services.com)** – SEO & Content Writing Agency helping businesses and SaaS companies scale organic growth.
-* 📚 **Wikipedia Contributor** – Over 1400+ published articles across sports, history, and general knowledge (including multiple *Good Articles*).
-
----
-
-### 🛠 Core Expertise
-
-* **Technical & On-Page SEO:** Internal Linking Architecture, Site Audits, Content Strategy, Keyword Research
-* **Web & CMS Development:** WordPress, Elementor, PHP, HTML/CSS
-* **Content & Growth:** High-converting B2B/B2C Content, Finance & Tech Reviews, Digital Marketing
+* 🏗️ **[Authority SEO Architecture](https://github.com)** – Šabloni za Topic Cluster, okviri za interno linkovanje i EEAT ček-liste.
+* 🔗 **[Auto-Internal Linker](https://github.com)** – WordPress dodatak koji automatizuje interno linkovanje na osnovu ključnih reči.
+* 🌐 **[Brisk Web Services](https://brisk-web-services.com)** – SEO i Content Architecture agencija.
+* 📚 **Wikipedia saradnik** – Preko 1400+ objavljenih članaka (uključujući *Good Articles*).
 
 ---
 
-### 🤝 Work With Me
+### 🛠 Ključna ekspertiza
 
-Looking to scale your organic traffic, need technical SEO consulting, or want to collaborate on WordPress SEO tools?
+* **Tehnički i On-Page SEO:** Arhitektura internih linkova, Topic Clusters, revizije sajtova, strategija sadržaja.
+* **Razvoj sajtova i CMS:** WordPress, Elementor, PHP, HTML/CSS.
+* **Sadržaj i rast:** B2B/B2C sadržaj, finansijske i tehnološke recenzije, digitalni marketing.
 
-* 🌐 **Agency:** [brisk-web-services.com](https://brisk-web-services.com)
-* 💼 **LinkedIn:** [Bojan Cvjetković](https://www.linkedin.com/in/bojancvjetkovic/)
+---
+
+### 🤝 Saradnja
+
+* 🌐 **Agencija:** [brisk-web-services.com](https://brisk-web-services.com)
+* 💼 **LinkedIn:** [Bojan Cvjetković](https://linkedin.com)
 * 📧 **Email:** bojan.cvjetkovic@gmail.com
