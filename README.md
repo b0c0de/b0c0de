@@ -28,5 +28,5 @@ With over 20 years of experience in digital marketing, technical SEO, and conten
 Looking to scale your organic traffic, need technical SEO consulting, or want to collaborate on WordPress SEO tools?
 
 * 🌐 **Agency:** [brisk-web-services.com](https://brisk-web-services.com)
-* 💼 **LinkedIn:** [Bojan Cvjetković](https://linkedin.com)
+* 💼 **LinkedIn:** [Bojan Cvjetković](https://ca.linkedin.com/company/brisk-web-services)
 * 📧 **Email:** bojan.cvjetkovic@gmail.com
